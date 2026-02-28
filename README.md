@@ -49,9 +49,9 @@ L'entité "Doctor YUSUF SAFI" n'est pas un artiste standard. C'est le résultat 
 Pour observer les résultats cliniques de cette architecture audio, accédez aux bases de données :
 
 ### THE 2026 DEPLOYMENT
-* **[2026-03-10]** `SINGLE` : LOBOTOMIE (L'Ice Pick)
+* **[2026-03-10]** `SINGLE` : LOBOTOMIE (Incision 432)
 * **[2026-03-16]** `EP` : LOBOTOMIE EP (6 Tracks)
-* **[2026-03-26]** `ALBUM` : MAGNUM OPUS : BLUEPRINT 432 (10 Tracks)
+* **[2026-03-26]** `ALBUM` : MAGNUM OPUS : BLUEPRINT 432 (15 Tracks)
 
 ### THE ARCHIVES (Restricted Access)
 * **[2025]** Safi Protocol (Archive organique)
