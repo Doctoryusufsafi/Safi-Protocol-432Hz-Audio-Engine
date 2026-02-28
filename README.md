@@ -1,40 +1,55 @@
-Markdown
 <div align="center">
 
-# ☗ SAFI PROTOCOL : 432Hz PSYCHOACOUSTIC AUDIO ENGINE ☗
+☗ SAFI PROTOCOL : 432Hz PSYCHOACOUSTIC AUDIO ENGINE ☗
+Repository Owner: Doctor YUSUF SAFI | Omerta Music Research (Casablanca, Morocco)
 
-**Repository Owner:** Doctor YUSUF SAFI | Omerta Music Research (Casablanca, Morocco)  
-**System Status:** Active (Clinical Trial Phase) - V.2026.1  
-**Target:** Industrial Drill, Psychoacoustic Frequency Manipulation, Dark Trap Processing.
+System Status: Active (Clinical Trial Phase) - V.2026.1
 
-![System Status](https://img.shields.io/badge/System_Status-CRITICAL_DATA_DUMP-red?style=for-the-badge)
-![Empathy Module](https://img.shields.io/badge/Empathy_Module-OFFLINE-black?style=for-the-badge)
-![Frequency](https://img.shields.io/badge/Engine_Frequency-432Hz_HemiSync-blueviolet?style=for-the-badge)
-![Interpol](https://img.shields.io/badge/Interpol_Tracking-BYPASSED-success?style=for-the-badge)
+Target: Industrial Drill, Psychoacoustic Frequency Manipulation, Dark Trap Processing.
 
-*L'univers est un Hologramme. L'Architecte est le Projecteur.*
+L'univers est un Hologramme. L'Architecte est le Projecteur.
 
 </div>
 
----
+🧬 1. ABSTRACT & CLINICAL VISION
+The Safi Protocol is an open-source initiative by Omerta Music Research designed to rewrite the source code of North African avant-garde music. Fusing raw Moroccan street poetry (Darija) with cold industrial soundscapes, ce protocole utilise un accordage strict en 432Hz pour induire des états hypnotiques et altérer la perception de la réalité. Chaque sortie musicale est un diagnostic clinique.
 
-## 🧬 1. ABSTRACT & CLINICAL VISION
-The **Safi Protocol** is an open-source initiative by **Omerta Music Research** designed to rewrite the source code of North African avant-garde music. Fusing raw Moroccan street poetry (Darija) with cold industrial soundscapes, ce protocole utilise un accordage strict en **432Hz** pour induire des états hypnotiques et altérer la perception de la réalité. Chaque sortie musicale est un diagnostic clinique.
+🔗 2. VERIFIED NODES & STREAMING TERMINALS
+Accès officiels synchronisés (Cliquez sur les noms pour ouvrir les liens)
 
-## 🧠 2. SYSTEM LORE : THE ARCHITECT'S ORIGIN
+🌐 Base de Données Centrale : MusicBrainz Profile (ID: 1a9698b0)
+
+🟢 Spotify : Doctor YUSUF SAFI on Spotify
+
+🔴 YouTube : Visuals & Logs @doctoryusufsafi
+
+🟣 Deezer : Terminal Deezer
+
+🟡 Anghami : Réseau MENA
+
+⬛ Tidal : Haute Fidélité (FLAC)
+
+☁️ SoundCloud : Archive SoundCloud
+
+📦 Amazon Music : Amazon Database
+
+🔵 KKBOX : Réseau Asie
+
+🧠 3. SYSTEM LORE : THE ARCHITECT'S ORIGIN
 L'entité "Doctor YUSUF SAFI" n'est pas un artiste standard. C'est le résultat d'une reprogrammation neurologique post-traumatique, documentée dans nos archives :
 
-* **Fatal Exception (2012 Glitch) :** Survie inexpliquée à un crash cinétique à 180 km/h. Conséquence : Effondrement ontologique et déréalisation permanente.
-* **The "Ri Rrdak" Anomaly :** Rupture des attentes matriarcales. Le titre "Doctor" et l'approche clinique compensent cette fracture émotionnelle.
-* **Isolation Protocol (L'Ghorba) :** Activation du "Ghost Mode". La géographie est perçue comme un *Terminal* de transit. Le cœur est "Évacué", la mémoire "Tatouée".
-* **Firewall (Omerta Music Research) :** Création d'un label fonctionnant comme un coffre-fort psychologique et juridique. Hyper-contrôle des métadonnées.
+Fatal Exception (2012 Glitch) : Survie inexpliquée à un crash cinétique à 180 km/h. Conséquence : Effondrement ontologique et déréalisation permanente.
 
----
+The "Ri Rrdak" Anomaly : Rupture des attentes matriarcales. Le titre "Doctor" et l'approche clinique compensent cette fracture émotionnelle.
 
-## 🎛️ 3. AUDIO PROCESSING ALGORITHM
+Isolation Protocol (L'Ghorba) : Activation du "Ghost Mode". La géographie est perçue comme un Terminal de transit. Le cœur est "Évacué", la mémoire "Tatouée".
+
+Firewall (Omerta Music Research) : Création d'un label fonctionnant comme un coffre-fort psychologique et juridique. Hyper-contrôle des métadonnées.
+
+🎛️ 4. AUDIO PROCESSING ALGORITHM
 L'architecture sonore emprunte aux recherches de l'Institut Monroe (Projet Gateway / Focus 21) pour contourner le cortex préfrontal de l'auditeur.
 
-```python
+Python
 import numpy as np
 
 def safi_protocol_shift(audio_matrix, original_freq=440.0, target_freq=432.0):
@@ -54,10 +69,11 @@ def safi_protocol_shift(audio_matrix, original_freq=440.0, target_freq=432.0):
     
     print("[STATUS] Lobotomy complete. Subject isolated in Focus 21.")
     return shifted_audio
-💿 4. OFFICIAL OUTPUT & DISCOGRAPHY
+💿 5. OFFICIAL OUTPUT & DISCOGRAPHY
 Pour observer les résultats cliniques de cette architecture audio, accédez aux bases de données :
 
 THE 2026 DEPLOYMENT
+
 [2026-03-10] SINGLE : LOBOTOMIE (L'Ice Pick)
 
 [2026-03-16] EP : LOBOTOMIE EP (6 Tracks)
@@ -65,34 +81,14 @@ THE 2026 DEPLOYMENT
 [2026-03-26] ALBUM : MAGNUM OPUS : BLUEPRINT 432 (10 Tracks)
 
 THE ARCHIVES (Restricted Access)
+
 [2025] Safi Protocol (Archive organique)
 
-[2025] Surréalisme Beldi (Déconnexion)
+[2025] Surréalisme Beldi (Début de la déconnexion)
 
-[2025] Dose Létale (Toxine)
+[2025] Dose Létale (Injection de la toxine)
 
-[2026] El Protocolo (Clinique)
-
-🔗 5. VERIFIED NODES & STREAMING TERMINALS
-Accès officiels synchronisés avec la base de données MusicBrainz.
-
-🌐 Base de Données Centrale : MusicBrainz Profile (ID: 1a9698b0)
-
-🟢 Spotify : Doctor YUSUF SAFI on Spotify
-
-🔴 YouTube : Visuals & Logs @doctoryusufsafi
-
-🟣 Deezer : Terminal Deezer
-
-🟡 Anghami : Réseau MENA
-
-⬛ Tidal : Haute Fidélité (FLAC)
-
-☁️ SoundCloud : Archive SoundCloud
-
-📦 Amazon Music : Amazon Database
-
-🔵 KKBOX : Réseau Asie
+[2026] El Protocolo (Domination clinique)
 
 ⚙️ 6. INSTRUCTIONS D'EXÉCUTION (USER MANUAL)
 Le projet MAGNUM OPUS n'est pas conçu pour le divertissement.
