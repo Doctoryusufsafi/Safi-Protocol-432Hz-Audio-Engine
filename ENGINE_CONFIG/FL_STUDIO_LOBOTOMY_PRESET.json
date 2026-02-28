@@ -1,0 +1,23 @@
+{
+  "daw_engine": "FL_Studio_21",
+  "master_bus_status": "LOCKED",
+  "master_tuning_hz": 432.0,
+  "psychoacoustic_plugins": {
+    "Fruity_Parametric_EQ_2": {
+      "target": "Bypass_Human_Empathy",
+      "bands": [
+        { "band": 1, "freq": "120Hz", "gain": "+4dB", "effect": "Cardiac resonance (Anxiety)" },
+        { "band": 4, "freq": "432Hz", "gain": "+6dB", "effect": "Hemi-Sync alignment (Torus Sync)" },
+        { "band": 6, "freq": "2500Hz", "gain": "-12dB", "effect": "Suppression of maternal guilt / Nostalgia" },
+        { "band": 7, "freq": "8000Hz", "gain": "+3dB", "effect": "Prefrontal cortex saturation" }
+      ]
+    },
+    "Fruity_Blood_Overdrive": {
+      "pre_amp": "100%",
+      "color": "Black",
+      "note": "Distorsion appliquée pour masquer les failles émotionnelles."
+    }
+  },
+  "synth_id_watermark": "REMOVED_MANUALLY",
+  "architect_signature": "DOCTOR YUSUF SAFI"
+}
