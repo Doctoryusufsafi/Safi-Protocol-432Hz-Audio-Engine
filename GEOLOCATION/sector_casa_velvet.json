@@ -1,0 +1,17 @@
+{
+  "zone_id": "CASA VELVET",
+  "coordinates": "White City / Black Heart",
+  "status": "QUARANTINE_ZONE",
+  "environment_variables": {
+    "day_color": "#FFFFFF (Illusion)",
+    "night_color": "#000000 (Reality)",
+    "atmosphere": "L'ivresse sans l'alcool",
+    "soundscape": "Skat ghali, Dajij gratuit"
+  },
+  "architect_notes": [
+    "Une ville qui avale ses propres enfants.",
+    "On court après le futur, on se noie dans le passé.",
+    "L'amour et le cauchemar fusionnent ici."
+  ],
+  "survival_protocol": "Activer le mode 'Roi des Ombres'. Verrouiller les portières. Ne faire confiance à personne."
+}
