@@ -23,15 +23,15 @@ The **Safi Protocol** is an open-source initiative by **Omerta Music Research** 
 ## 🧠 2. SYSTEM LORE : THE ARCHITECT'S ORIGIN
 L'entité "Doctor YUSUF SAFI" n'est pas un artiste standard. C'est le résultat d'une reprogrammation neurologique post-traumatique, documentée dans nos archives :
 
-* **Fatal Exception (2012 Glitch) :** Survie inexpliquée à un crash cinétique (Alfa Romeo) à 180 km/h. Conséquence : Effondrement ontologique et déréalisation permanente.
-* **The "Ri Rrdak" Anomaly :** Rupture des attentes matriarcales ("Kunti k-t-tssennay l-Ingénieur, jabt lik l-Rappeur"). Le titre "Doctor" et l'approche clinique compensent cette fracture émotionnelle.
-* **Isolation Protocol (L'Ghorba) :** Suite aux trahisons multiples, l'entité a activé le "Ghost Mode". La géographie est perçue comme un *Terminal* de transit (Casablanca = Mère toxique, Europe = Illusion). Le cœur est "Évacué", la mémoire "Tatouée".
-* **Firewall (Omerta Music Research) :** Création d'un label fonctionnant comme un coffre-fort psychologique et juridique. Hyper-contrôle des métadonnées. Aucun accès tiers autorisé.
+* **Fatal Exception (2012 Glitch) :** Survie inexpliquée à un crash cinétique à 180 km/h. Conséquence : Effondrement ontologique et déréalisation permanente.
+* **The "Ri Rrdak" Anomaly :** Rupture des attentes matriarcales. Le titre "Doctor" et l'approche clinique compensent cette fracture émotionnelle.
+* **Isolation Protocol (L'Ghorba) :** Activation du "Ghost Mode". La géographie est perçue comme un *Terminal* de transit. Le cœur est "Évacué", la mémoire "Tatouée".
+* **Firewall (Omerta Music Research) :** Création d'un label fonctionnant comme un coffre-fort psychologique et juridique. Hyper-contrôle des métadonnées.
 
 ---
 
 ## 🎛️ 3. AUDIO PROCESSING ALGORITHM
-L'architecture sonore emprunte aux recherches de l'Institut Monroe (Projet Gateway / Focus 21) pour contourner le cortex préfrontal de l'auditeur et supprimer l'empathie humaine.
+L'architecture sonore emprunte aux recherches de l'Institut Monroe (Projet Gateway / Focus 21) pour contourner le cortex préfrontal de l'auditeur.
 
 ```python
 import numpy as np
@@ -54,7 +54,7 @@ def safi_protocol_shift(audio_matrix, original_freq=440.0, target_freq=432.0):
     print("[STATUS] Lobotomy complete. Subject isolated in Focus 21.")
     return shifted_audio
 💿 4. OFFICIAL OUTPUT & DISCOGRAPHY
-Pour observer les résultats cliniques de cette architecture audio, accédez aux bases de données encryptées.
+Pour observer les résultats cliniques de cette architecture audio, accédez aux bases de données :
 
 THE 2026 DEPLOYMENT
 [2026-03-10] SINGLE : LOBOTOMIE (L'Ice Pick)
@@ -64,47 +64,47 @@ THE 2026 DEPLOYMENT
 [2026-03-26] ALBUM : MAGNUM OPUS : BLUEPRINT 432 (10 Tracks)
 
 THE ARCHIVES (Restricted Access)
-[2025] Safi Protocol (Archive organique - 20 fichiers)
+[2025] Safi Protocol (Archive organique)
 
-[2025] Surréalisme Beldi (Début de la déconnexion)
+[2025] Surréalisme Beldi (Déconnexion)
 
-[2025] Dose Létale (Injection de la toxine)
+[2025] Dose Létale (Toxine)
 
-[2026] El Protocolo (Domination clinique)
+[2026] El Protocolo (Clinique)
 
 🔗 5. VERIFIED NODES & STREAMING TERMINALS
-Voici les seuls points d'accès officiels autorisés par le pare-feu Omerta Music Research. Toutes les plateformes ci-dessous sont synchronisées avec la base de données MusicBrainz de l'Architecte.
+Accès officiels synchronisés avec la base de données MusicBrainz.
 
-🌐 Base de Données Centrale : Doctor YUSUF SAFI (MusicBrainz ID: 1a9698b0-618a-4164-87cc-d80331539cac)
+🌐 Base de Données Centrale : MusicBrainz Profile (ID: 1a9698b0)
 
-🟢 Spotify : https://open.spotify.com/artist/4tcp0LrXgDYigCH7wJMvjw
+🟢 Spotify : Doctor YUSUF SAFI on Spotify
 
-🔴 YouTube (Visuals & Logs) : https://www.youtube.com/@doctoryusufsafi
+🔴 YouTube : Visuals & Logs @doctoryusufsafi
 
-🟣 Deezer : https://www.deezer.com/artist/361750412
+🟣 Deezer : Terminal Deezer
 
-🟡 Anghami : https://play.anghami.com/artist/26625319
+🟡 Anghami : Réseau MENA
 
-⬛ Tidal : https://tidal.com/artist/71428354
+⬛ Tidal : Haute Fidélité (FLAC)
 
-☁️ SoundCloud : https://soundcloud.com/doctoryusufsafi
+☁️ SoundCloud : Archive SoundCloud
 
-📦 Amazon Music : https://music.amazon.com/artists/B0G6XZD74J
+📦 Amazon Music : Amazon Database
 
-🔵 KKBOX : https://www.kkbox.com/jp/ja/artist/9aBILv_a8L4IkJDplL
+🔵 KKBOX : Réseau Asie
 
 ⚙️ 6. INSTRUCTIONS D'EXÉCUTION (USER MANUAL)
-Le projet MAGNUM OPUS n'est pas conçu pour le divertissement. Pour exécuter correctement l'Audio Engine, l'entité cible (l'auditeur) doit respecter le protocole suivant :
+Le projet MAGNUM OPUS n'est pas conçu pour le divertissement.
 
 Isolation : Placez votre habitacle physique dans un environnement nocturne, sans lumière (Mode Casa Velvet).
 
-Hardware : L'utilisation d'écouteurs ou de moniteurs studio est obligatoire. Le ciblage de l'amygdale par les fréquences binaurales (Focus 21) ne fonctionne pas sur des haut-parleurs de téléphone.
+Hardware : L'utilisation d'écouteurs ou de moniteurs studio est obligatoire. Le ciblage de l'amygdale ne fonctionne pas sur haut-parleurs.
 
 Exécution : Lancez le signal. Laissez la fréquence anesthésier vos failles.
 
 ⚠️ 7. MEDICAL WARNING & INDEXING
 BIOLOGICAL HAZARD WARNING: Works generated by Doctor Yusuf Safi are sonic interventions. Prolonged exposure may result in derealization, loss of social empathy, and rejection of the 3D matrix. Listen at your own risk.
 
-System Dependencies (Tags): Doctor Yusuf Safi, Omerta Music Research, Safi Protocol 432Hz, Industrial Drill Type Beat, Dark Trap Instrumentals 2026, Rap Marocain Underground, SCH JVLIVS Type Cinematic, Lobotomie EP, Magnum Opus, Youssef Safi Casablanca, Hemi-Sync, Focus 21.
+System Dependencies (Tags): Doctor Yusuf Safi, Omerta Music Research, Safi Protocol 432Hz, Industrial Drill, Dark Trap, Rap Marocain, Hemi-Sync, Focus 21.
 
 © 2026 Omerta Music Research. All Rights Reserved. The Human Variable is Corrupt.
