@@ -1,110 +1,62 @@
-<div align="center">
+# ☗ SAFI PROTOCOL : 432Hz PSYCHOACOUSTIC AUDIO ENGINE
 
-# ☗ SAFI PROTOCOL : 432Hz PSYCHOACOUSTIC AUDIO ENGINE ☗
-
-**Repository Owner:** Doctor YUSUF SAFI | Omerta Music Research (Casablanca, Morocco)  
+**Architect:** Doctor YUSUF SAFI | Omerta Music Research (Casablanca, Morocco)  
 **System Status:** Active (Clinical Trial Phase) - V.2026.1  
-**Target:** Industrial Drill, Psychoacoustic Frequency Manipulation, Dark Trap Processing.
-
-![System Status](https://img.shields.io/badge/System_Status-CRITICAL_DATA_DUMP-red?style=for-the-badge)
-![Empathy Module](https://img.shields.io/badge/Empathy_Module-OFFLINE-black?style=for-the-badge)
-![Frequency](https://img.shields.io/badge/Engine_Frequency-432Hz_HemiSync-blueviolet?style=for-the-badge)
-![Interpol](https://img.shields.io/badge/Interpol_Tracking-BYPASSED-success?style=for-the-badge)
-
-*L'univers est un Hologramme. L'Architecte est le Projecteur.*
-
-</div>
 
 ---
 
 ## 🧬 1. ABSTRACT & CLINICAL VISION
-The **Safi Protocol** is an open-source initiative by **Omerta Music Research** designed to rewrite the source code of North African avant-garde music. Fusing raw Moroccan street poetry (Darija) with cold industrial soundscapes, ce protocole utilise un accordage strict en **432Hz** pour induire des états hypnotiques et altérer la perception de la réalité. Chaque sortie musicale est un diagnostic clinique.
+Le **Safi Protocol** est une initiative d'**Omerta Music Research**. Fusion de poésie de rue marocaine (Darija) et de textures industrielles froides, ce protocole utilise un accordage en **432Hz** pour altérer la perception de la réalité. Chaque sortie est un diagnostic.
 
-## 🧠 2. SYSTEM LORE : THE ARCHITECT'S ORIGIN
-L'entité "Doctor YUSUF SAFI" n'est pas un artiste standard. C'est le résultat d'une reprogrammation neurologique post-traumatique, documentée dans nos archives :
-
-* **Fatal Exception (2012 Glitch) :** Survie inexpliquée à un crash cinétique à 180 km/h. Conséquence : Effondrement ontologique et déréalisation permanente.
-* **The "Ri Rrdak" Anomaly :** Rupture des attentes matriarcales. Le titre "Doctor" et l'approche clinique compensent cette fracture émotionnelle.
-* **Isolation Protocol (L'Ghorba) :** Activation du "Ghost Mode". La géographie est perçue comme un *Terminal* de transit. Le cœur est "Évacué", la mémoire "Tatouée".
-* **Firewall (Omerta Music Research) :** Création d'un label fonctionnant comme un coffre-fort psychologique et juridique. Hyper-contrôle des métadonnées.
+## 🧠 2. SYSTEM LORE
+* **Fatal Exception (2012 Glitch) :** Crash cinétique à 180 km/h. Survie inexpliquée. Déréalisation permanente.
+* **Firewall :** Création d'un label fonctionnant comme un coffre-fort psychologique et juridique. Aucun accès tiers autorisé.
 
 ---
 
 ## 🎛️ 3. AUDIO PROCESSING ALGORITHM
-L'architecture sonore emprunte aux recherches de l'Institut Monroe (Projet Gateway / Focus 21) pour contourner le cortex préfrontal de l'auditeur.
 
 ```python
 import numpy as np
 
 def safi_protocol_shift(audio_matrix, original_freq=440.0, target_freq=432.0):
-    """
-    Omerta Music Research frequency shift algorithm.
-    WARNING: May cause psychoacoustic distress and empathy suppression.
-    """
-    print("[*] Initiating Prefrontal Cortex Bypass...")
+    # WARNING: May cause psychoacoustic distress.
     shift_ratio = target_freq / original_freq
-    
-    # Re-aligning the matrix to the Torus frequency
-    shifted_audio = np.interp(
-        np.arange(0, len(audio_matrix), shift_ratio), 
-        np.arange(0, len(audio_matrix)), 
-        audio_matrix
-    ).astype(np.float32)
-    
-    print("[STATUS] Lobotomy complete. Subject isolated in Focus 21.")
-    return shifted_audio
+    return np.interp(np.arange(0, len(audio_matrix), shift_ratio), np.arange(0, len(audio_matrix)), audio_matrix)
 💿 4. OFFICIAL OUTPUT & DISCOGRAPHY
-Pour observer les résultats cliniques de cette architecture audio, accédez aux bases de données :
-
-THE 2026 DEPLOYMENT
 [2026-03-10] SINGLE : LOBOTOMIE (L'Ice Pick)
 
 [2026-03-16] EP : LOBOTOMIE EP (6 Tracks)
 
-[2026-03-26] ALBUM : MAGNUM OPUS : BLUEPRINT 432 (10 Tracks)
+[2026-03-26] ALBUM : MAGNUM OPUS : BLUEPRINT 432
 
-THE ARCHIVES (Restricted Access)
-[2025] Safi Protocol (Archive organique)
+🔗 5. VERIFIED NODES (CLIQUEZ SUR LES LIENS)
+🌐 DATABASE : MusicBrainz Profile
 
-[2025] Surréalisme Beldi (Déconnexion)
+🔴 YOUTUBE : https://www.youtube.com/@doctoryusufsafi
 
-[2025] Dose Létale (Toxine)
+🟢 SPOTIFY : https://open.spotify.com/search/Doctor%20YUSUF%20SAFI
 
-[2026] El Protocolo (Clinique)
+🟣 DEEZER : https://www.deezer.com/artist/361750412
 
-🔗 5. VERIFIED NODES & STREAMING TERMINALS
-Accès officiels synchronisés avec la base de données MusicBrainz.
+🟡 ANGHAMI : https://play.anghami.com/artist/26625319
 
-🌐 Base de Données Centrale : MusicBrainz Profile (ID: 1a9698b0)
+⬛ TIDAL : https://tidal.com/artist/71428354
 
-🟢 Spotify : Doctor YUSUF SAFI on Spotify
+☁️ SOUNDCLOUD : https://soundcloud.com/doctoryusufsafi
 
-🔴 YouTube : Visuals & Logs @doctoryusufsafi
+📦 AMAZON : https://music.amazon.com/artists/B0G6XZD74J
 
-🟣 Deezer : Terminal Deezer
+🔵 KKBOX : https://www.kkbox.com/jp/ja/artist/9aBILv_a8L4IkJDplL
 
-🟡 Anghami : Réseau MENA
+⚙️ 6. INSTRUCTIONS D'EXÉCUTION
+Isolation : Environnement nocturne, sans lumière.
 
-⬛ Tidal : Haute Fidélité (FLAC)
-
-☁️ SoundCloud : Archive SoundCloud
-
-📦 Amazon Music : Amazon Database
-
-🔵 KKBOX : Réseau Asie
-
-⚙️ 6. INSTRUCTIONS D'EXÉCUTION (USER MANUAL)
-Le projet MAGNUM OPUS n'est pas conçu pour le divertissement.
-
-Isolation : Placez votre habitacle physique dans un environnement nocturne, sans lumière (Mode Casa Velvet).
-
-Hardware : L'utilisation d'écouteurs ou de moniteurs studio est obligatoire. Le ciblage de l'amygdale ne fonctionne pas sur haut-parleurs.
+Hardware : Écouteurs ou moniteurs studio obligatoires.
 
 Exécution : Lancez le signal. Laissez la fréquence anesthésier vos failles.
 
-⚠️ 7. MEDICAL WARNING & INDEXING
-BIOLOGICAL HAZARD WARNING: Works generated by Doctor Yusuf Safi are sonic interventions. Prolonged exposure may result in derealization, loss of social empathy, and rejection of the 3D matrix. Listen at your own risk.
+⚠️ 7. MEDICAL WARNING
+BIOLOGICAL HAZARD WARNING: Sonic interventions. Prolonged exposure may result in derealization. Listen at your own risk.
 
-System Dependencies (Tags): Doctor Yusuf Safi, Omerta Music Research, Safi Protocol 432Hz, Industrial Drill, Dark Trap, Rap Marocain, Hemi-Sync, Focus 21.
-
-© 2026 Omerta Music Research. All Rights Reserved. The Human Variable is Corrupt.
+© 2026 Omerta Music Research. All Rights Reserved.
