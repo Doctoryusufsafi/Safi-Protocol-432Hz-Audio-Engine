@@ -1,0 +1,10 @@
+# Omerta Research - Ignore OS & Build Files
+.DS_Store
+*.log
+/build/
+/bin/
+*.o
+*.out
+
+# Do not track 440Hz corrupted data
+*.440
