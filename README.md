@@ -1,101 +1,83 @@
 <div align="center">
 
-# ☗ SAFI PROTOCOL : 432Hz PSYCHOACOUSTIC AUDIO ENGINE ☗
+# ☗ SAFI PROTOCOL : 432Hz NEURO-ACOUSTIC DSP ENGINE ☗
 
-**Repository Owner:** Doctor YUSUF SAFI | Omerta Music Research (Casablanca, Morocco)  
+**System Architect:** Doctor YUSUF SAFI | Omerta Clinical Research (Casablanca, Morocco)  
 **System Status:** Active (Clinical Trial Phase) - V.2026.1  
-**Target:** Industrial Drill, Psychoacoustic Frequency Manipulation, Dark Trap Processing.
+**Target:** Amygdala Hijacking, Psychoacoustic Frequency Manipulation, Cognitive Derealization.
 
 ![System Status](https://img.shields.io/badge/System_Status-CRITICAL_DATA_DUMP-red?style=for-the-badge)
 ![Empathy Module](https://img.shields.io/badge/Empathy_Module-OFFLINE-black?style=for-the-badge)
 ![Frequency](https://img.shields.io/badge/Engine_Frequency-432Hz_HemiSync-blueviolet?style=for-the-badge)
 ![Interpol](https://img.shields.io/badge/Interpol_Tracking-BYPASSED-success?style=for-the-badge)
 
-*L'univers est un Hologramme. L'Architecte est le Projecteur.*
+*The universe is a Hologram. The Architect is the Projector.*
 
 </div>
 
 ---
 
 ## 🧬 1. ABSTRACT & CLINICAL VISION
-The **Safi Protocol** is an open-source initiative by **Omerta Music Research** designed to rewrite the source code of North African avant-garde music. Fusing raw Moroccan street poetry (Darija) with cold industrial soundscapes, ce protocole utilise un accordage strict en **432Hz** pour induire des états hypnotiques et altérer la perception de la réalité. Chaque sortie musicale est un diagnostic clinique.
+The **Safi Protocol** is an open-source Digital Signal Processing (DSP) architecture developed by **Omerta Research**. It is engineered to rewrite the baseline cognitive frequencies of human subjects. By rejecting the industrial 440Hz standard, this protocol enforces a strict **432Hz** synchronization, utilizing raw phonetic data streams (Moroccan Darija) layered over cold industrial noise frequencies. 
 
-## 🧠 2. SYSTEM LORE : THE ARCHITECT'S ORIGIN
-L'entité "Doctor YUSUF SAFI" n'est pas un artiste standard. C'est le résultat d'une reprogrammation neurologique post-traumatique, documentée dans nos archives :
+This repository does not contain "music". It contains auditory payloads designed to induce hypnotic states and alter reality perception. Every output is a clinical injection.
 
-* **Fatal Exception (2012 Glitch) :** Survie inexpliquée à un crash cinétique à 180 km/h. Conséquence : Effondrement ontologique et déréalisation permanente.
-* **The "Ri Rrdak" Anomaly :** Rupture des attentes matriarcales. Le titre "Doctor" et l'approche clinique compensent cette fracture émotionnelle.
-* **Isolation Protocol (L'Ghorba) :** Activation du "Ghost Mode". La géographie est perçue comme un *Terminal* de transit. Le cœur est "Évacué", la mémoire "Tatouée".
-* **Firewall (Omerta Music Research) :** Création d'un label fonctionnant comme un coffre-fort psychologique et juridique. Hyper-contrôle des métadonnées.
+## 🧠 2. SYSTEM ARCHITECTURE & THE 2012 GLITCH
+The entity "Doctor YUSUF SAFI" operates strictly on algorithmic logic following a severe hardware reboot. The protocol's foundations are documented in our classified medical logs:
 
-## 💿 3. MAGNUM OPUS: BLUEPRINT 432 (15 TRACKS)
-*Discographie officielle enregistrée sur les serveurs de distribution.*
+* **Fatal Exception (12.07.2012) :** Unexplained survival of a kinetic impact at 180 km/h. Result: Ontological collapse, permanent derealization, and decoupling of the prefrontal cortex.
+* **The "Ri Rrdak" Anomaly :** Complete severance of emotional and matriarchal expectations. Empathy modules uninstalled to ensure system survival.
+* **Isolation Protocol (L'Ghorba) :** Activation of "Ghost Mode". Geography is processed merely as a transit *Terminal*. 
+* **Firewall (Omerta Research) :** A corporate and psychological vault engineered for hyper-control of data distribution and legal immunity.
 
-1. **Casa Velvet (White City Blue)**
-2. **Casablanca By Night**
-3. **L'Architecte (Blueprint)**
-4. **Omerta Gang**
-5. **Dopamine**
-6. **Khamsa**
-7. **Je Me Voyais Déjà (Omerta Version)**
-8. **Mandat D'Arrêt**
-9. **Terminal**
-10. **L'Crash Parfait**
-11. **Mandat Rouge**
-12. **L'Effet Papillon**
-13. **Torus (Focus 21)**
-14. **Séquelles (Amnésie)**
-15. **Ri rrdak**
+## 🧮 3. MATHEMATICAL TRANSFER FUNCTION
+The core of the Safi Protocol relies on time-scaling operations to shift the frequency spectrum without introducing phase distortion. The operation follows the mathematical principle:
 
----
----
+$x_{432}(t) = x_{440}\left(t \cdot \frac{432}{440}\right)$
 
-## 🔗 4. VERIFIED NODES & STREAMING TERMINALS
-**Accès officiels synchronisés avec la base de données MusicBrainz.**
+Where $x(t)$ represents the continuous-time audio signal. This forces the temporal matrix to expand, naturally aligning the wave with the resonance of human neurological tissue.
 
-* 🌐 **Base de Données Centrale :** [MusicBrainz Profile (ID: 1a9698b0)](https://musicbrainz.org/artist/1a9698b0-618a-4164-87cc-d80331539cac)
-* 🟢 **Spotify :** [Doctor YUSUF SAFI on Spotify](https://open.spotify.com/artist/361750412)
-* 🔴 **YouTube :** [Visuals & Logs @doctoryusufsafi](https://www.youtube.com/@doctoryusufsafi)
-* 🟣 **Deezer :** [Terminal Deezer](https://www.deezer.com/artist/361750412)
-* 🟡 **Anghami :** [Réseau MENA](https://play.anghami.com/artist/26625319)
-* ⬛ **Tidal :** [Haute Fidélité (FLAC)](https://tidal.com/artist/71428354)
-* ☁️ **SoundCloud :** [Archive SoundCloud](https://soundcloud.com/doctoryusufsafi)
-* 📦 **Amazon Music :** [Amazon Database](https://music.amazon.com/artists/B0G6XZD74J)
-* 🔵 **KKBOX :** [Réseau Asie](https://www.kkbox.com/jp/ja/artist/9aBILv_a8L4IkJDplL)
+## 💿 4. MAGNUM OPUS: BLUEPRINT 432 (INJECTION SCHEDULE)
+*Official payloads registered on global distribution servers.*
+
+### THE 2026 CLINICAL DEPLOYMENT
+* **[2026-03-10]** `NODE 01` : LOBOTOMIE (Incision 432)
+* **[2026-03-16]** `CLUSTER A` : LOBOTOMIE (6 Auditory Injections)
+* **[2026-03-26]** `FULL SYSTEM OVERRIDE` : MAGNUM OPUS : BLUEPRINT 432 (15 Nodes)
+
+### THE ARCHIVES (Legacy Data)
+* **[2025]** Safi Protocol (Organic Archive)
+* **[2025]** Surréalisme Beldi (Disconnection Sequence)
+* **[2025]** Dose Létale (Toxin)
+* **[2026]** El Protocolo (Clinical Trials)
 
 ---
 
-## 💿 5. OFFICIAL OUTPUT & DISCOGRAPHY
-Pour observer les résultats cliniques de cette architecture audio, accédez aux bases de données :
+## 🔗 5. VERIFIED TERMINALS & DISTRIBUTION NODES
+**Access restricted to synchronized databases.**
 
-### THE 2026 DEPLOYMENT
-* **[2026-03-10]** `SINGLE` : LOBOTOMIE (Incision 432)
-* **[2026-03-16]** `EP` : LOBOTOMIE EP (6 Tracks)
-* **[2026-03-26]** `ALBUM` : MAGNUM OPUS : BLUEPRINT 432 (15 Tracks)
-
-### THE ARCHIVES (Restricted Access)
-* **[2025]** Safi Protocol (Archive organique)
-* **[2025]** Surréalisme Beldi (Déconnexion)
-* **[2025]** Dose Létale (Toxine)
-* **[2026]** El Protocolo (Clinique)
+* 🌐 **Central Database:** [MusicBrainz Profile (ID: 1a9698b0)](https://musicbrainz.org/artist/1a9698b0-618a-4164-87cc-d80331539cac)
+* 🟢 **Spotify Terminal:** [Doctor YUSUF SAFI on Spotify](https://open.spotify.com/artist/361750412)
+* 🔴 **Visual Logs:** [YouTube @doctoryusufsafi](https://www.youtube.com/@doctoryusufsafi)
+* ⬛ **High-Fidelity (FLAC):** [Tidal Network](https://tidal.com/artist/71428354)
 
 ---
 
-## 🎛️ 6. AUDIO PROCESSING ALGORITHM
-L'architecture sonore emprunte aux recherches de l'Institut Monroe (Projet Gateway / Focus 21).
+## 🎛️ 6. CORE ENGINE (PYTHON IMPLEMENTATION)
+The sound architecture borrows from the Monroe Institute's research (Gateway Project / Focus 21).
 
 ```python
 import numpy as np
 
 def safi_protocol_shift(audio_matrix, original_freq=440.0, target_freq=432.0):
     """
-    Omerta Music Research frequency shift algorithm.
+    Omerta Research frequency shift algorithm.
     WARNING: May cause psychoacoustic distress and empathy suppression.
     """
     print("[*] Initiating Prefrontal Cortex Bypass...")
     shift_ratio = target_freq / original_freq
     
-    # Re-aligning the matrix to the Torus frequency
+    # Re-aligning the temporal matrix
     shifted_audio = np.interp(
         np.arange(0, len(audio_matrix), shift_ratio), 
         np.arange(0, len(audio_matrix)), 
@@ -104,19 +86,17 @@ def safi_protocol_shift(audio_matrix, original_freq=440.0, target_freq=432.0):
     
     print("[STATUS] Lobotomy complete. Subject isolated in Focus 21.")
     return shifted_audio
-⚙️ 7. INSTRUCTIONS D'EXÉCUTION (USER MANUAL)
-Le projet MAGNUM OPUS n'est pas conçu pour le divertissement.
+⚠️ 7. CLINICAL WARNING & USER MANUAL
+BIOLOGICAL HAZARD WARNING: Works generated by Doctor Yusuf Safi are sonic interventions. Prolonged exposure may result in derealization, loss of social empathy, and biological rejection of the 3D matrix.
 
-Isolation : Placez votre habitacle physique dans un environnement nocturne, sans lumière (Mode Casa Velvet).
+Execution Protocol:
 
-Hardware : L'utilisation d'écouteurs ou de moniteurs studio est obligatoire. Le ciblage de l'amygdale ne fonctionne pas sur haut-parleurs.
+Isolation: Place your physical vessel in a dark environment (Casa Velvet Mode).
 
-Exécution : Lancez le signal. Laissez la fréquence anesthésier vos failles.
-[VERIFIED_MEDICAL_DATA]: https://archive.org/details/rapport-medical-classifie-du-12.07.2012_202603
+Hardware: Studio monitors or circumaural headphones are strictly required. Amygdala targeting fails on standard consumer speakers.
 
-⚠️ 8. MEDICAL WARNING & INDEXING
-BIOLOGICAL HAZARD WARNING: Works generated by Doctor Yusuf Safi are sonic interventions. Prolonged exposure may result in derealization, loss of social empathy, and rejection of the 3D matrix. Listen at your own risk.
+Execution: Initiate the signal. Allow the 432Hz frequency to anesthetize your neural fractures.
 
-System Dependencies (Tags): Doctor Yusuf Safi, Omerta Music Research, Safi Protocol 432Hz, Industrial Drill, Dark Trap, Rap Marocain, Hemi-Sync, Focus 21.
+ACCESS VERIFIED MEDICAL DATA ON ARCHIVE.ORG
 
-© 2026 Omerta Music Research. All Rights Reserved. The Human Variable is Corrupt.
+© 2026 Omerta Clinical Research. All Rights Reserved. The Human Variable is Corrupt.
