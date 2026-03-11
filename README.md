@@ -290,6 +290,8 @@ print(f"[OK]  LUFS: {lufs:.1f}  True Peak: {tp:.1f} dBTP")
 | 🟠 SoundCloud | [soundcloud.com/doctoryusufsafi](https://soundcloud.com/doctoryusufsafi) |
 | 🔵 Amazon Music | [music.amazon.com/artists/B0G6XZD74J/doctor-yusuf-safi](https://music.amazon.com/artists/B0G6XZD74J/doctor-yusuf-safi) |
 | 🟣 Anghami | [play.anghami.com/artist/26625319](https://play.anghami.com/artist/26625319) |
+| 🍎 Apple Music | [music.apple.com/artist/doctor-yusuf-safi/1858183545](https://music.apple.com/artist/doctor-yusuf-safi/1858183545) |
+| 🟡 Audiomack | [audiomack.com/doctor-yusuf-safi](https://audiomack.com/doctor-yusuf-safi) |
 
 ### 📡 Social & Research Nodes
 
