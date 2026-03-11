@@ -8,3 +8,18 @@
 
 # Do not track 440Hz corrupted data
 *.440
+
+# Python cache & virtual envs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+.env
+.venv/
+venv/
+
+# Temp runtime files
+*.json.tmp
+*.py.tmp
